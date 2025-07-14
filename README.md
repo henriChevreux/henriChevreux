@@ -8,6 +8,9 @@
   </a>
 </p>
 
-Hi there! My name is Henri, I am studying AI at Ecole Polytechnique and have multiple industry experiences, where I developed ML models for various applications, from contextual advertising to semiconductor imaging. 
+MSc AI & Computer Vision @ École Polytechnique | KCL Computer Science Graduate
+- 🔬 Research Focus: Deep Learning, Computer Vision, Graph Neural Networks
+- 🏢 Experience: R&D Intern at ASML, ML Research at Oracle, Full-stack at MathWorks
+- 🛠️ Tech Stack: Python, PyTorch, JAX, CUDA, Golang, React
 
 Feel free to connect!
