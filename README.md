@@ -24,7 +24,7 @@ I'm a 23-year-old AI researcher and engineer passionate about pushing the bounda
 
 - **🎯 Current Research**: Investigating zero-shot editing techniques in distilled diffusion models (aiming for publication!)
 - **💡 Computer Vision**: 3D computer vision, advanced deep learning architectures, Graph Neural Networks
-- **🤖 AI Applications**: Large language models, autonomous systems, soft robotics
+- **🤖 AI Applications**: Large language models, autonomous systems, robotics
 - **🔬 Recent Achievement**: Developed GNNs for semiconductor imaging at ASML
 
 ---
