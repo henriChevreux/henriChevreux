@@ -32,7 +32,7 @@ I'm a 23-year-old AI researcher and engineer passionate about pushing the bounda
 I am always looking to contribute to projects and to participate in new ventures, so feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/henriChevreux">
+  <a href="https://www.linkedin.com/in/henri-chevreux-7aaa261b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
