@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a 23-year-old AI researcher and engineer passionate about pushing the boundaries of computer vision and deep learning! Currently pursuing my MSc in AI & Advanced Computer Vision at **École Polytechnique** 🇫🇷.
+I am a first year PhD student at Imperial College London, working on neurosymbolic AI.
 
 ## 🛠️ My Tech Toolkit
 
@@ -22,7 +22,7 @@ I'm a 23-year-old AI researcher and engineer passionate about pushing the bounda
 
 ## 🔬 Research Interests
 
-- **🎯 Current Research**: Investigating zero-shot editing techniques in distilled diffusion models (aiming for publication!)
+- **🎯 Current Research**: Investigating zero-shot editing techniques in distilled diffusion models
 - **💡 Computer Vision**: 3D computer vision, advanced deep learning architectures, Graph Neural Networks
 - **🤖 AI Applications**: Large language models, autonomous systems, robotics
 - **🔬 Recent Achievement**: Developed GNNs for semiconductor imaging at ASML
